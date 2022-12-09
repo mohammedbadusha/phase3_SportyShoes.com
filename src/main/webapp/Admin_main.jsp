@@ -4,7 +4,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>PRAJVAL BHALE</title>
+<title>simplilearn</title>
 <style type="text/css">
 
 .main{
